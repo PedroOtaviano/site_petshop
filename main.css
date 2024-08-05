@@ -97,6 +97,10 @@ header ,section h2, section h3{
     display: block;
 }
 
+#contact {
+    background-color: #d4c3eb;
+}
+
 .contact-methods {
     display: flex;
     justify-content: space-between;
